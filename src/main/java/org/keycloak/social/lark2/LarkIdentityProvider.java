@@ -1,4 +1,4 @@
-package org.keycloak.social.lark;
+package org.keycloak.social.lark2;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;

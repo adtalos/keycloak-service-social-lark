@@ -1,1 +1,2 @@
 org.keycloak.social.lark.LarkIdentityProviderFactory
+org.keycloak.social.lark2.LarkIdentityProviderFactory
